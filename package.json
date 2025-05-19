@@ -1,0 +1,31 @@
+{
+  "name": "tp2-api-rest",
+  "version": "1.0.0",
+  "description": "Trabajo Práctico de API REST para la materia TP2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroJ2000/TP2-API-REST.git"
+  },
+  "keywords": [
+    "TP2",
+    "API",
+    "REST",
+    "Node",
+    "Express"
+  ],
+  "author": "Alejandro Gabriel Jursza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroJ2000/TP2-API-REST/issues"
+  },
+  "homepage": "https://github.com/AlejandroJ2000/TP2-API-REST#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
