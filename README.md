@@ -8,7 +8,7 @@ Este proyecto implementa una API REST para manejar un listado de usuarios. Se ut
 
 ### 1. Requisitos
 
-- Node.js (versión 18 o superior)
+- Node.js
 - Postman (opcional para probar)
 
 ### 2. Pasos para iniciar el proyecto
